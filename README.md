@@ -1,7 +1,7 @@
 Camera-App
 ==========
 
-Sample how to programmatically camera on iOS devices
+Sample how to programmatically take photo on iOS devices
 
 
 This is mini - app contains the samples of using “UIImagePickerController” , “MFMailComposeViewController”.
